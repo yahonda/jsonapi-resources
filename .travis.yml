@@ -19,3 +19,7 @@ matrix:
   exclude:
     - rvm: 2.6.1
       env: "RAILS_VERSION=4.2.11"
+    - rvm: 2.3.8
+      env: "RAILS_VERSION=6.0.0.rc2"
+    - rvm: 2.4.5
+      env: "RAILS_VERSION=6.0.0.rc2"
