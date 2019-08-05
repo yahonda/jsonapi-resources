@@ -8,7 +8,7 @@ require 'database_cleaner'
 # export RAILS_VERSION=4.2.6; bundle update rails; bundle exec rake test
 # export RAILS_VERSION=5.0.0; bundle update rails; bundle exec rake test
 # export RAILS_VERSION=5.1.0; bundle update rails; bundle exec rake test
-# export RAILS_VERSION=6.0.0.beta1; bundle update rails; bundle exec rake test
+# export RAILS_VERSION=6.0.0.rc2; bundle update rails; bundle exec rake test
 
 # We are no longer having Travis test Rails 4.1.x., but you can try it with:
 # export RAILS_VERSION=4.1.0; bundle update rails; bundle exec rake test
